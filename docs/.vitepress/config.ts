@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import mdPlugin from './config/plugins'
+import { mdPlugin } from './config/plugins'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "YinWanZi-Plus",
